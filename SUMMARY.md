@@ -8,7 +8,7 @@
 
 * [Get Started](api/start/README.md)
   * [Request an API Key](api/start/request-a-key.md)
-  * [View Plans](api/start/plans.md)
+  * [View API Plans](api/start/plans.md)
 
 ## API STATUS
 

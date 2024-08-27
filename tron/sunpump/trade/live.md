@@ -1,8 +1,9 @@
 ---
+icon: house-signal
 description: >-
   This API allows users to trade SunPump tokens using TRX. This includes Buy and
   Sell transactions.
-icon: house-signal
+hidden: true
 ---
 
 # Live Trade API

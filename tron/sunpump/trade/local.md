@@ -1,9 +1,9 @@
 ---
+icon: house-lock
 description: >-
   This API allows users to trade SunPump tokens without passing a private key or
   sensitive information. It works by building transaction instructions for local
   signing and broadcasting instead.
-icon: house-lock
 ---
 
 # Local Trade API
@@ -69,7 +69,7 @@ const buyRequest = async () => {
     }
   });
 
-  console.log(response.data);
+  console.log(response.json());
 };
 
 buyRequest();

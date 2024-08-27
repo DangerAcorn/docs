@@ -1,8 +1,9 @@
 ---
+icon: dollar-sign
 description: >-
   This API provides the current price of TRX in USD. You can use this endpoint
   to retrieve the most up-to-date TRX price.
-icon: dollar-sign
+hidden: true
 ---
 
 # Get TRX Price

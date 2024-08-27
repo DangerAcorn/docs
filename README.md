@@ -15,6 +15,8 @@ layout:
 
 # Welcome
 
+<figure><img src=".gitbook/assets/Frame 20.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 🔑 Request an API Key
