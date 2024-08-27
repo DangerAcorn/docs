@@ -1,8 +1,9 @@
 ---
+icon: dollar-sign
 description: >-
   Allows users to fetch current token price in TRX and USD for a specific token
   (un-bonded) on SunPump.
-icon: dollar-sign
+hidden: true
 ---
 
 # Get TRX Price
