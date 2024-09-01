@@ -16,7 +16,7 @@ hidden: true
 * **API Key Header:** `api-key: your-api-key-here`
 
 {% hint style="warning" %}
-**Please do NOT use your main wallet private key for transaction on our API. If anybody has access to your API key or privateKey, they can access your funds.** \
+**Please do NOT use your main wallet private key for transactions on our API. If anybody has access to your API key or privateKey, they can access your funds.** \
 \
 If you would prefer to build transactions instead of sending your Private Key through an HTTPS request, please refer to our [**`Local Trade API`**](local.md)
 {% endhint %}
