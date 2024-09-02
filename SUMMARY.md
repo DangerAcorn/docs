@@ -18,14 +18,13 @@
 
 ## Tron Network <a href="#tron" id="tron"></a>
 
+* [Dedicated Nodes](tron/dedicated-nodes.md)
 * [SunPump API](tron/sunpump/README.md)
   * [Trade API](tron/sunpump/trade/README.md)
     * [Live Trade API](tron/sunpump/trade/live.md)
     * [Local Trade API](tron/sunpump/trade/local.md)
-    * [Approve Tokens](tron/sunpump/trade/approve.md)
-    * [Get Quote](tron/sunpump/trade/get-quote.md)
-    * [Check Allowance](tron/sunpump/trade/allowance.md)
   * [Get Data](tron/sunpump/get-data/README.md)
+    * [Get Quote](tron/sunpump/get-data/get-quote.md)
     * [Get Token Details](tron/sunpump/get-data/details.md)
     * [Get Token Holders](tron/sunpump/get-data/holders.md)
     * [Get Recent Trades](tron/sunpump/get-data/recenttrades.md)
@@ -39,6 +38,8 @@
   * [Get TRX Price](tron/helpers/trxprice.md)
   * [Create Wallet](tron/helpers/createwallet.md)
   * [Transfer](tron/helpers/transfer.md)
+  * [Approve Tokens](tron/helpers/approve.md)
+  * [Check Allowance](tron/helpers/allowance.md)
   * [🚧 Webhooks](tron/helpers/webhooks/README.md)
     * [Subscriptions](tron/helpers/webhooks/subscriptions.md)
 

@@ -1,8 +1,9 @@
 ---
+icon: droplet-percent
 description: >-
   Allows users to fetch current curve progress (%) for a specific token
   (un-bonded) on SunPump.
-icon: droplet-percent
+hidden: true
 ---
 
 # 🚧 Get Curve Progress
